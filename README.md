@@ -14,7 +14,7 @@ and announcing the detected objects through "text-to-speech".
 - "Real-Time Object Detection" using YOLOv8.
 - "Text-to-Speech Integration" to announce detected objects.
 - "Excludes Person detection" to reduce redundant outputs.
-- "User-Friendly GUI" using TKinter for starting/stopping detection.
+- "User-Friendly GUI" using Tkinter for starting/stopping detection.
 
 ## Tech Stack
 - "Language:" Python
@@ -30,7 +30,7 @@ pip install opencv-python pyttsx3 ultralytics
 1. Clone or download the rep.ository.
 2. Open the project folder.
 3. Run:
-4. ```bash
+   ```bash
    python main.py
    ```
 5. Press the Start Dtection button in the GUI to begin.
