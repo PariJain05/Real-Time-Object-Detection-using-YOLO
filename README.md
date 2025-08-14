@@ -24,13 +24,15 @@ and announcing the detected objects through "text-to-speech".
 ## Installtion
 ```bash
 pip install opencv-python pyttsx3 ultralytics
-
+```
 
 ## How to run
 1. Clone or download the rep.ository.
 2. Open the project folder.
 3. Run:
+4. ```bash
    python main.py
-4. Press the Start Dtection button in the GUI to begin.
-5. Press Esc in the vedio window or Stop Detection in the GUI to stop.
+   ```
+5. Press the Start Dtection button in the GUI to begin.
+6. Press Esc in the vedio window or Stop Detection in the GUI to stop.
 
